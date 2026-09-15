@@ -9,7 +9,110 @@ The project transforms raw workforce data into meaningful business insights usin
 The analysis helps organizations understand workforce performance, compare departments, identify trends, and support data-driven decision-making.
 
 ---
+# 📊 Workforce Insights Analysis
 
+## 📌 Project Overview
+
+**Workforce Insights Analysis** is an end-to-end data analytics project focused on understanding employee performance, workforce distribution, and departmental trends.
+
+The project uses **Python, SQL, Power BI, and DAX** to clean, analyze, and visualize workforce data, turning raw data into actionable business insights that can support data-driven decision-making.
+
+---
+
+## 🎯 Business Objectives
+
+The project aims to answer key workforce-related questions:
+
+- How is the workforce distributed across departments?
+- Which departments have the strongest performance?
+- Which employees are the top performers?
+- How does employee performance vary across departments?
+- What workforce trends and patterns can be identified?
+- Which areas may require further attention or improvement?
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** – Data cleaning, preprocessing & exploratory analysis
+- **Pandas & NumPy** – Data manipulation and analysis
+- **SQL** – Business queries, aggregations & KPI analysis
+- **Power BI** – Interactive dashboard & data visualization
+- **DAX** – Calculated measures and KPIs
+- **Excel** – Data inspection and supporting analysis
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Workforce Data
+        ↓
+Data Cleaning & Preprocessing
+        ↓
+Python & Pandas
+        ↓
+Exploratory Data Analysis
+        ↓
+SQL Business Analysis
+        ↓
+DAX KPI Development
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights
+# 📊 Workforce Insights Analysis
+
+## 📌 Project Overview
+
+**Workforce Insights Analysis** is an end-to-end data analytics project focused on understanding employee performance, workforce distribution, and departmental trends.
+
+The project uses **Python, SQL, Power BI, and DAX** to clean, analyze, and visualize workforce data, turning raw data into actionable business insights that can support data-driven decision-making.
+
+---
+
+## 🎯 Business Objectives
+
+The project aims to answer key workforce-related questions:
+
+- How is the workforce distributed across departments?
+- Which departments have the strongest performance?
+- Which employees are the top performers?
+- How does employee performance vary across departments?
+- What workforce trends and patterns can be identified?
+- Which areas may require further attention or improvement?
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Python** – Data cleaning, preprocessing & exploratory analysis
+- **Pandas & NumPy** – Data manipulation and analysis
+- **SQL** – Business queries, aggregations & KPI analysis
+- **Power BI** – Interactive dashboard & data visualization
+- **DAX** – Calculated measures and KPIs
+- **Excel** – Data inspection and supporting analysis
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Raw Workforce Data
+        ↓
+Data Cleaning & Preprocessing
+        ↓
+Python & Pandas
+        ↓
+Exploratory Data Analysis
+        ↓
+SQL Business Analysis
+        ↓
+DAX KPI Development
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights
 ##  Business Objectives
 
 The project focuses on answering important workforce-related business questions:
@@ -23,7 +126,6 @@ The project focuses on answering important workforce-related business questions:
 - How can workforce data support better business decisions?
 
 ---
-
 ##  Tools & Technologies
 
 | Technology | Purpose |
@@ -37,7 +139,6 @@ The project focuses on answering important workforce-related business questions:
 |  **Excel** | Data inspection and supporting analysis |
 
 ---
-
 ##  Data Analytics Workflow
 
 ```text
@@ -59,6 +160,6 @@ Power BI Dashboard
         ↓
 Business Insights
 
-<img width="1386" height="856" alt="image" src="https://github.com/user-attachments/assets/d8160a06-844c-4f21-96b1-408d3b5c6ca4" />
+
 
 
