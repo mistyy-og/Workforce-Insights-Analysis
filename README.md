@@ -1,4 +1,4 @@
-# 📊 Workforce Insights Analysis
+#  Workforce Insights Analysis
 
 ## 📌 Project Overview
 
@@ -30,17 +30,17 @@ The project focuses on answering important workforce-related business questions:
 
 | Technology | Purpose |
 |---|---|
-| 🐍 **Python** | Data cleaning, preprocessing, and exploratory data analysis |
-| 🐼 **Pandas** | Data manipulation and transformation |
-| 🔢 **NumPy** | Numerical analysis |
-| 🗄️ **SQL** | Business queries, aggregations, and KPI analysis |
-| 📊 **Power BI** | Interactive dashboard development and data visualization |
-| 📐 **DAX** | Calculated measures and performance KPIs |
-| 📗 **Excel** | Data inspection and supporting analysis |
+|  **Python** | Data cleaning, preprocessing, and exploratory data analysis |
+|  **Pandas** | Data manipulation and transformation |
+|  **NumPy** | Numerical analysis |
+|  **SQL** | Business queries, aggregations, and KPI analysis |
+|  **Power BI** | Interactive dashboard development and data visualization |
+|  **DAX** | Calculated measures and performance KPIs |
+|  **Excel** | Data inspection and supporting analysis |
 
 ---
 
-## 🔄 Data Analytics Workflow
+##  Data Analytics Workflow
 
 ```text
 Raw Workforce Data
