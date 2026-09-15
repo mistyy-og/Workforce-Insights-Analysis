@@ -59,8 +59,6 @@ Power BI Dashboard
         ↓
 Business Insights
 
-##  Dashboard Preview
-
-<img width="888" height="552" alt="image" src="https://github.com/user-attachments/assets/ea4851a4-c2c9-4bfa-bf50-5c1d00798570" />
+<img width="1386" height="856" alt="image" src="https://github.com/user-attachments/assets/d8160a06-844c-4f21-96b1-408d3b5c6ca4" />
 
 
