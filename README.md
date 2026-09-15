@@ -10,7 +10,7 @@ The analysis helps organizations understand workforce performance, compare depar
 
 ---
 
-![Uploading image.png…]()
+![Uploading image.png…]() 
 
 
 
