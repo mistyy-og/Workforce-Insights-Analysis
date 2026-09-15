@@ -1,6 +1,6 @@
 # 📊 Workforce Insights Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 **Workforce Insights Analysis** is an end-to-end data analytics project focused on analyzing employee performance, workforce distribution, and departmental trends.
 
@@ -10,12 +10,7 @@ The analysis helps organizations understand workforce performance, compare depar
 
 ---
 
-![Uploading image.png…]() 
-
-
-
-
-## 🎯 Business Objectives
+##  Business Objectives
 
 The project focuses on answering important workforce-related business questions:
 
@@ -29,21 +24,21 @@ The project focuses on answering important workforce-related business questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Technology | Purpose |
 |---|---|
-| 🐍 **Python** | Data cleaning, preprocessing, and exploratory data analysis |
-| 🐼 **Pandas** | Data manipulation and transformation |
-| 🔢 **NumPy** | Numerical analysis |
-| 🗄️ **SQL** | Business queries, aggregations, and KPI analysis |
-| 📊 **Power BI** | Interactive dashboard development and data visualization |
-| 📐 **DAX** | Calculated measures and performance KPIs |
-| 📗 **Excel** | Data inspection and supporting analysis |
+|  **Python** | Data cleaning, preprocessing, and exploratory data analysis |
+|  **Pandas** | Data manipulation and transformation |
+|  **NumPy** | Numerical analysis |
+|  **SQL** | Business queries, aggregations, and KPI analysis |
+|  **Power BI** | Interactive dashboard development and data visualization |
+|  **DAX** | Calculated measures and performance KPIs |
+|  **Excel** | Data inspection and supporting analysis |
 
 ---
 
-## 🔄 Data Analytics Workflow
+##  Data Analytics Workflow
 
 ```text
 Raw Workforce Data
@@ -63,3 +58,8 @@ DAX KPI Development
 Power BI Dashboard
         ↓
 Business Insights
+
+#  Dashboard Preview
+
+<img width="888" height="552" alt="image" src="https://github.com/user-attachments/assets/3efe970c-03f3-4eee-942b-1a58c317b340" />
+
